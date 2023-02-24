@@ -15,4 +15,4 @@
 
 
 
-this exploit was patched 2 years ago so we use the unsupported java 8.
+## NOTE: this exploit was patched 2 years ago so we use the unsupported java 8.
