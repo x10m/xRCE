@@ -1,4 +1,6 @@
 # xRCE - Log4Shell Windows.
+## NOTE: this exploit was patched 2 years ago so we use the unsupported java 8.
+
 
 ### Requirments:
  - ##### Unsupported [JAVA 8](https://mirrors.huaweicloud.com/java/jdk/8u181-b13)
@@ -12,7 +14,3 @@
 2. ##### Click/Run download-marshalsec.cmd
 3. ##### If downloading/compiling was sucessfull click run.cmd
 4. ##### If you see the 'PROGRAM IS RUNNING' you can copy the invalid string and paste to ex. Minecraft
-
-
-
-## NOTE: this exploit was patched 2 years ago so we use the unsupported java 8.
