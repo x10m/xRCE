@@ -1,4 +1,4 @@
-# xRCE - Log4Shell Windows.
+# xRCE - Log4Shell Windows Test Envirment.
 ## NOTE: this exploit was patched 2 years ago so we use the unsupported java 8.
 
 
